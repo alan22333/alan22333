@@ -27,12 +27,12 @@
 
 ### 🛠 Tech Stack
 #### **Languages & Frameworks**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,go,js,java,html,react,nextjs,vue,tailwind" />
 </p>
 
 #### **Tools & Platforms**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ipfs,redis,docker,git,github,mysql" />
 </p>
 
