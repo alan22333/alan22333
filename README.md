@@ -42,8 +42,10 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**DAO Lottery Plus**](https://github.com/alanroot/dao-lottery-plus) | DAO-based lottery governance system with fairness-first mechanism | Solidity, Next.js, Hardhat |
-| [**Nexus Forum**](https://github.com/alanroot/nexus-forum) | Go-based community forum backend | Go, MySQL, REST API |
+| [**Nexus Forum**](https://github.com/alanroot/nexus-forum) | Go-based community forum for web3 | Go, MySQL, REST API |
 | [**FutureCast DApp**](https://github.com/alanroot/prediction-market) | Decentralized prediction platform | Solidity, Viem, Foundry |
+| [**Goseed Cli**](https://github.com/alan22333/goseed) | A CLI tool for building Go applications | Go, cobra  |
+| [**DeciCourt DApp**](https://github.com/alan22333/DeciCourt) | Decentralized judicial system ensures transparent judgments | Solidity, Hardhat |
 
 ---
 
