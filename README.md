@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 A current graduate student, with a research focus on **multi-cloud data auditing**.
+- 🎓 A current graduate student, with a research focus on **blockchain**.
 
 - 💼 Some **Web3 research assistant** intern experience.
 
