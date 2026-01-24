@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule: # 设定定时运行
+    - cron: '0 * * * *' # 每小时运行一次
+  workflow_dispatch: # 允许手动点击按钮运行
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # 必填：这里填写你在第一步里验证过的 Hexo RSS 地址
+          feed_list: "https://alan-blog.netlify.app/atom.xml"
+          
+          # 选填：最大显示文章数量，默认是5
+          max_post_count: 5
