@@ -4,6 +4,9 @@ on:
     - cron: '0 * * * *' # 每小时运行一次
   workflow_dispatch: # 允许手动点击按钮运行
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
