@@ -40,11 +40,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [test](https://alan-blog.netlify.app/2026/01/24/test/)
 - [Concurrent multi-threaded tasks in real life?](https://alan-blog.netlify.app/2026/01/20/%E6%80%8E%E6%A0%B7%E6%9B%B4%E5%A5%BD%E5%9C%B0%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%BB%BB%E5%8A%A1/)
 - [2025年终总结](https://alan-blog.netlify.app/2025/12/28/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 - [GeeWeb学习笔记](https://alan-blog.netlify.app/2025/12/06/GeeWeb%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 - [Go语言之Mysql-Proxy](https://alan-blog.netlify.app/2025/11/29/Go%E8%AF%AD%E8%A8%80%E4%B9%8BMysql-Proxy/)
+- [Binary Sparse Merkle Tree &lpar;BSMT&rpar;](https://alan-blog.netlify.app/2025/11/21/BSMT/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📌 Featured Projects
