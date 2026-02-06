@@ -40,11 +40,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Context上下文](https://alan-blog.netlify.app/2026/02/04/Context%E4%B8%8A%E4%B8%8B%E6%96%87/)
+- [并发面试题（1）](https://alan-blog.netlify.app/2026/01/31/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%981/)
+- [Chan实现原理](https://alan-blog.netlify.app/2026/01/31/Chan%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
+- [竞态&amp;内存逃逸](https://alan-blog.netlify.app/2026/01/30/%E7%AB%9E%E6%80%81%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8/)
 - [GC垃圾回收：三色标记法与混合写屏障](https://alan-blog.netlify.app/2026/01/29/GC%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/)
-- [raft](https://alan-blog.netlify.app/2026/01/28/raft/)
-- [Concurrent multi-threaded tasks in real life?](https://alan-blog.netlify.app/2026/01/20/%E6%80%8E%E6%A0%B7%E6%9B%B4%E5%A5%BD%E5%9C%B0%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%BB%BB%E5%8A%A1/)
-- [2025年终总结](https://alan-blog.netlify.app/2025/12/28/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
-- [GeeWeb学习笔记](https://alan-blog.netlify.app/2025/12/06/GeeWeb%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📌 Featured Projects
