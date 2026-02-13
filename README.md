@@ -40,11 +40,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go语言基础语法](https://alan-blog.netlify.app/2026/02/13/Go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%E6%8F%90%E9%97%AE/)
 - [Go 语言面试题集锦（1）](https://alan-blog.netlify.app/2026/02/08/Go%E5%85%AB%E8%82%A1%E6%96%87%EF%BC%881%EF%BC%89/)
+- [MIT-6824lab3：raft](https://alan-blog.netlify.app/2026/02/07/raft/)
 - [GMP模型](https://alan-blog.netlify.app/2026/02/06/GMP%E6%A8%A1%E5%9E%8B/)
 - [Context上下文](https://alan-blog.netlify.app/2026/02/04/Context%E4%B8%8A%E4%B8%8B%E6%96%87/)
-- [并发面试题（1）](https://alan-blog.netlify.app/2026/01/31/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%981/)
-- [Chan实现原理](https://alan-blog.netlify.app/2026/01/31/Chan%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📌 Featured Projects
